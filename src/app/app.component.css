@@ -1,0 +1,24 @@
+footer {
+	background-color: green;
+	color: #ADADAD;
+}
+footer h5, footer img {
+	margin-top: 5em;
+	font-weight: bold;
+}
+footer a {
+	color: #ADADAD;
+}
+footer a:hover {
+	color: gainsboro;
+}
+footer address {
+  margin: 6em ;
+  margin-left: 0%;
+	color: #5A5A5A;
+}
+footer address strong {
+	color: #ADADAD;
+	display: block;
+	padding-bottom: 0.52em;
+}
