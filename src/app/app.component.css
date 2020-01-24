@@ -1,6 +1,6 @@
 footer {
 	background-color: green;
-	color: #ADADAD;
+	color: white;
 }
 footer h5, footer img {
 	margin-top: 5em;
@@ -15,10 +15,10 @@ footer a:hover {
 footer address {
   margin: 6em ;
   margin-left: 0%;
-	color: #5A5A5A;
+	color: white;
 }
 footer address strong {
-	color: #ADADAD;
+	color: white;
 	display: block;
 	padding-bottom: 0.52em;
 }
